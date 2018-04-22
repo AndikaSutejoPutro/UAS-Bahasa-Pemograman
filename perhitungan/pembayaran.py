@@ -1,4 +1,3 @@
-import texttable as tt
 def pembayaran():
     print("\n============================================")
     nama = input("\n\tmasukkan nama = ")
